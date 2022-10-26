@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Live Demo](http://kyrillos.me/github-users/)
+[Live Demo](https://github-users-navy.vercel.app/)
 
 ## Objectives & What I learned
 
