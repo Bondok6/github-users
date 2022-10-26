@@ -21,6 +21,7 @@
 
 - How Can I work with or benefit from `query string`?
 - How can I get query string values from url in JavaScript?
+- Fully Responsive design without any `media queries` 
 
 
 ## Getting Started
