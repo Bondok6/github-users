@@ -5,14 +5,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <script src="js/script.js"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- defer keyword: to make sure that the script is executed after the page has been loaded. -->
+    <script src="js/script.js" defer></script>
+
     <title>GitHub Users</title>
   </head>
 
   <body>
 
-    <main>
+    <header>
+      <h1>10 GitHub Users</h1>
+
+      <from method="#" class="search">
+        <input type="text" id="search" placeholder="Search for any GitHub User ...">
+        <button id="search-btn" type="submit">Search</button>
+      </from>
+    </header>
+
+    <main class="container">
+
+      <ul class="cards">
+        <!-- Implemented Dynamically using js-->
+      </ul>
 
     </main>
   </body>
