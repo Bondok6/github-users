@@ -41,6 +41,5 @@ const renderUser = (user) => {
 (async () => {
   const username = getUsername();
   const user = await getUser(username);
-  console.log(user);
   renderUser(user);
 })();
