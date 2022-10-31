@@ -1,6 +1,6 @@
 # Frontend Code Challenge
 
-> ### It was a live code challenge I faced, I created two pages, one to display a list of 10 GitHub users as cards, the second to display specific user information 
+> ### It was a live code challenge I faced, I've created two pages, one to display a list of 10 GitHub users as cards, the second to display specific user information 
 
 
 ## Built With
