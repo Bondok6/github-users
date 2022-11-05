@@ -11,7 +11,7 @@
 
 ## Additional Used
 
-- [Endpints Documentation](https://docs.github.com/en/rest/users/users#list-users) 
+- [Endpoints Documentation](https://docs.github.com/en/rest/users/users#list-users) 
 
 ## Live Demo
 
